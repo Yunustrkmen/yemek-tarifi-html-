@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+    <H1>
+        <strong>
+            MAKARNA TARİFİ
+
+        </strong>
+    </H1>
+    <P>
+        Oldukça kolay ve pratik bir şekilde hazırlanan makarnalar, mutfaktaki kurtarıcınız oluyor. Burgu, fiyonk, kalem, boru, spagetti ve erişte gibi pek çok şekle ve birbirinden farklı tatlara sahip olan makarnalar etli ve sebzeli soslarla buluşup sofralarınızı şenlendiriyor. Ocakta ya da fırında pişirebileceğiniz makarna tariflerini, ister öğle yemeği isterseniz de akşam yemeği için hazırlayabilirsiniz. Hem doyurucu hem de lezzetli makarna tarifleri arasından dilediğinizi seçin ve sevdiklerinizle birlikte afiyetle yiyin!
+    </P>
+    <P>
+        <STRong>
+            Tarif:
+        </STRong>yemek tarifleri
+    </P>
+</header>
+
+<section>
+    <article>
+        <div>
+         <h2>
+             <strong>
+                 Bilgiler
+             </strong>
+         </h2>
+         <ul>
+             <li>
+                 <div><strong>Miktar:</strong>4 kişilik</div>
+                 <div><strong>Pişirme Süresi:</strong>15 dakika</div>
+                 <div><strong>Hazırlama Süresi:</strong>15 dakika</div>
+             </li>
+         </ul>
+        </div>
+    </article>
+    <article>
+        <div>
+         <h2>
+             <strong>
+                 GEREKLİ MALZEMELER
+             </strong>
+         </h2>
+         <ul>
+             <li>
+                 <div>1 paket spagetti</div>
+                 <div>1 çay kaşığı tuz</div>
+                 <div>4 litre kaynar su</div>
+             </li>
+         </ul>
+        </div>
+    </article>
+    <article>
+        <div>
+         <h2>
+             <strong>
+                 HAZIRLANIŞI
+             </strong>
+         </h2>
+         <ul>
+             <li>
+                 <div>
+                     Ocakta kaynar su hazırlanacak
+                 </div>
+                 <div>
+                     kaynayan suya makarna bırakılacak
+                 </div>
+                 <div>
+                     12 dakika kaynadıktan sonra süzülerek servise hazır hale getirilecek
+                 </div>
+             </li>
+         </ul>
+        </div>
+    </article>
+
+
+</section>
+
+<footer>
+    <h2>
+        <strong>
+            Afiyet Olsun
+        </strong>
+    </h2>
+</footer>
+
+</body>
+</html>
