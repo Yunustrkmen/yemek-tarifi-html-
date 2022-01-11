@@ -1,2 +1,2 @@
-# yemek-tarifi-htlm-
-htlm ile yemek tarifi çalışması
+# yemek-tarifi-html-
+html ile yemek tarifi çalışması
